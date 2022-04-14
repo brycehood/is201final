@@ -1,0 +1,45 @@
+.common {
+    background-color: lightgoldenrodyellow;
+    border: solid 2px white;
+    position: absolute;
+
+}
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+}
+
+.main {
+    top: 114px;
+    height: 5239px;
+    left: 5px;
+    right: 5px;
+}
+
+.footer {
+    bottom: 5px;
+    height: 50px;
+    right: 5px;
+    left: 5px;
+    text-align: center;
+    position: fixed;
+}
+
+.centertext {
+    text-align: center;
+}
+
+.captions {
+    background-color: lightgoldenrodyellow;
+    font-size: 30px;
+    font-color: black;
+    font-weight: bolder;
+    
+}
+
+.headerwords {
+    font-size: 30px;
+    font-weight: bold;
+}
